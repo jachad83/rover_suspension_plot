@@ -14,7 +14,7 @@ The model variables are:
 * Spring deflection distance / size of bump encountered
 * Mass applied to suspension spring
 * Suspension spring length
-* Suspension spring resistance strength / stiffness
+* Suspension spring constant / stiffness
 * Dampening effect
 * Deflection distance that suspension oscillations are deemed negligible
 
