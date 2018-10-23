@@ -15,12 +15,12 @@ The model variables are:
 * Suspension spring length
 * Suspension spring resistance strength / coefficient
 * Dampening effect / coefficient
-* Point that suspension oscillations are deemed negligible
+* Deflection distance that suspension oscillations are deemed negligible
 
 The model outputs are:
 
 * Time for suspension oscillations to become negligible
-* Total number of suspension oscillations before oscillations are deemed negligible
+* Total number of suspension oscillations before they are deemed negligible
 
 ## Dependencies
 
