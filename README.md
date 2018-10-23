@@ -11,10 +11,11 @@ I originally completed the task using MatLab; this is a Python port of that task
 
 The model variables are:
 
-* Deflection distance (produced by weight of the rover and bumps encountered)
+* Spring deflection distance / size of bump encountered
+* Mass applied to suspension spring
 * Suspension spring length
-* Suspension spring resistance strength / coefficient
-* Dampening effect / coefficient
+* Suspension spring resistance strength / stiffness
+* Dampening effect
 * Deflection distance that suspension oscillations are deemed negligible
 
 The model outputs are:
