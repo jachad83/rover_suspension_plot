@@ -32,3 +32,7 @@ The model outputs are:
 
 #### Author
 * James Chadwick, 2018
+
+#### License
+* Mozilla Public License 2.0
+* Keep it free and always give credit where its due!
